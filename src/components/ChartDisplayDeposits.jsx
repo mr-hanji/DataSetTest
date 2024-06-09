@@ -4,7 +4,7 @@ import { Chart, registerables } from "chart.js";
 
 Chart.register(...registerables);
 
-const ChartDisplay = ({ data }) => {
+const ChartDisplay = ({ data, title }) => {
   const addresses = Object.keys(data);
   const values = addresses.map((address) => {
     return data[address].reduce(
@@ -50,7 +50,7 @@ const ChartDisplay = ({ data }) => {
 
   return (
     <div>
-      <h2>Data Chart</h2>
+      <h2>{title}</h2>
       <Bar data={chartData} options={options} />
     </div>
   );

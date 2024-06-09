@@ -1,0 +1,3181 @@
+{
+  "0x086189e0c1f9679b07c1053b6550380a66f6aa3d": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "MANTRADAO"
+      },
+      "legal": {
+        "Raw": "MANTRADAO"
+      },
+      "web": {
+        "Raw": "https://mantradao.com/"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "contact@mantradao.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "MANTRADAO"
+      }
+    }
+  },
+  "0xeff294897662fa756bc22a9924e52b01266f0b54": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "TinyHill"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x49384dc6a014c0b3f098f2cab3ef9f89463abf21": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "onchainmoney.com"
+      },
+      "legal": "None",
+      "web": {
+        "Raw": "https://onchainmoney.com"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "support@onchainmoney.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@onchainmoney"
+      }
+    }
+  },
+  "0x83dfec2df4ff34ad1c2e1bc8efcaa5a96f021355": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "gaga"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xf71b6d8863258f62019dbc8b44b4dd00dae0a63f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xdd7b4aa984da70bbf1dd78bed4c8210ff360be01": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "PineappleXpress"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@okojamo:matrix.org"
+      },
+      "email": {
+        "Raw": "pineapplexpress1@protonmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x20c93b4b8109fd93489d864a73fe7bd4eadf2061": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Insight Finance"
+      },
+      "legal": "None",
+      "web": {
+        "Raw": "https://gostake.io"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "eric_dwj@icloud.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x73a56596da8fa1c3d65331600e211ebac737cf7f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "GLOBAL PRESIDENT"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x9e0a546b54888eb08ee89ab422a52af61fbf5d46": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xe4b8ade69687e6b58be8af95616c6c20636861696e20617661696c61626c65"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x9b009dd592e5f637c98b0a50d6f0903b0df56e09": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa496205452555354203425"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x22d0f66583d9ab6def493292c953caf22e18aa5e": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x4d61737465726e6f64653234f09f94b1"
+      },
+      "legal": {
+        "Raw": "Masternode24"
+      },
+      "web": {
+        "Raw": "https://masternode24.de/"
+      },
+      "riot": {
+        "Raw": "@alexkidd:matrix.org"
+      },
+      "email": {
+        "Raw": "darwinia@masternode24.de"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@masternode24"
+      }
+    }
+  },
+  "0xaa402f5d1c211477b9d4c81a514448bf6ffb5d42": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x91fd852cc7b75ac797a3162943e5e0612179da62": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "QuantanomicaVR-1"
+      },
+      "legal": {
+        "Raw": "Quantanomica"
+      },
+      "web": {
+        "Raw": "quantanomica.com"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "info@quantanomica.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@quantanomica"
+      }
+    }
+  },
+  "0x42826fe0402958f2a65154af6c27d2329e726a6e": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "DOODMAX (EXTENSION)"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xbe9329fe4b0be338e56ae6039a723fa1605c0d44": {
+    "judgements": [],
+    "deposit": "100,025,800,000,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "D6"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xe97541ab75791acb080f4ad41c22c35a1d824b37": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "POLKAPRIME (EXTENSION)"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8dbe5fd78f3f1816f237e4931d70c54b76351607": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x6d61746877616c6c657420e9baa6e5ad90e992b1e58c85"
+      },
+      "legal": {
+        "Raw": "mathwallet"
+      },
+      "web": {
+        "Raw": "https://mathwallet.org"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "hello@mathwallet.org"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@MathWallet"
+      }
+    }
+  },
+  "0x30c8e1cf761e9b92329484c28fe6649a4b7efb5f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "PING "
+      },
+      "legal": {
+        "Raw": "Ping.pub"
+      },
+      "web": {
+        "Raw": "Ping.pub"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "18786721@qq.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x326e5839ba53d619f4b7330d4311bd7b9b3bf945": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "MegaValidator"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "MegaValidator"
+      },
+      "email": {
+        "Raw": "houfakirfr@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8ad34b15a1fbcc70b6188acf08ff50f176459c35": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30322df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0x30322df09f8c885261696e626f77"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2d3a16efac366d1924ce261f72080a96c943f80c": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "xchain"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x55ea1a7a14d928e0293d72dacf386ce196226863": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "DARWI"
+      },
+      "legal": {
+        "Raw": "BB DARWI"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x74af5f1f725bb5907c09c86624de8b838cdbdd60": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2338"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x1e22a21aee532b121c5a3d767f3717e8d175ca51": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "POLKAHAUS-PHNX-02"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "nodes@polkahaus.club"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@PolkaHaus"
+      }
+    }
+  },
+  "0x63929d4f3fe79b75ec9161ea8c20ccc0988f6e07": {
+    "judgements": [],
+    "deposit": "100,025,800,000,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "D8"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x5531e2b6bdc2e4c3c2803900665ad98dd58c5c74": {
+    "judgements": [
+      [
+        "0",
+        {
+          "FeePaid": "100,000,000,000,000,000,000"
+        }
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "BitPortal"
+      },
+      "legal": {
+        "Raw": "BitPortal"
+      },
+      "web": {
+        "Raw": "https://www.bitportal.io/"
+      },
+      "riot": {
+        "Raw": "jamie.cheng"
+      },
+      "email": {
+        "Raw": "jamie.cheng@bitportal.io"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "bit_portal"
+      }
+    }
+  },
+  "0x358bc1b518d194d9d6fd40b0ab218734c271d73e": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "JPM (EXTENSION)"
+      },
+      "legal": {
+        "Raw": "JPM"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "metzee77@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x4c71b3eab98de5a6c2ecf3507c1cb6da66d1d04a": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xe59bbde5a3abe697a0e58f8c"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2ffdfda265f41c134a68376238ead6b54112f21f": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f9a804b5542452d56414c49203825"
+      },
+      "legal": {
+        "Raw": "Way Sun"
+      },
+      "web": {
+        "Raw": "https://github.com/wi1dcard"
+      },
+      "riot": {
+        "Raw": "@wi1dcard_dev:matrix.org"
+      },
+      "email": {
+        "Raw": "way.sun@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "https://twitter.com/kubevali"
+      }
+    }
+  },
+  "0xe4edefd434d4d4e3be7e8dcae43f2d3179928358": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Cont"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xee6071f7c105496cd706f9168d9368f3b9527f1d": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2333"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xcbdc3268b514a7be4142ff69a46dc63672f0e962": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "SHAD 3% TILL 2022"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xe58c126b2b086afebc871fec3587720e72073c37": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "POLKAHAUS-PHNX-01"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "nodes@polkahaus.club"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@PolkaHaus"
+      }
+    }
+  },
+  "0x1982670cbc7b316c34d94181b7866698abdfa56f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "THATSIT-LUXE-darwinia-val-1"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x968084e56c02a9f90c6729b8f34d6393a606223f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Drakarys"
+      },
+      "legal": {
+        "Raw": "ScoobyDoo"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@Scoobydoo7834"
+      }
+    }
+  },
+  "0x75e736aeeb1197f95677e603c61d882e52e0f543": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30312df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0xf09f8c885261696e626f772d3031"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2c68fa8edca54fa61f8e1622b7fdaf050eb2b80b": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Darwi Controller"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x87630736848c4c0264a969069de5894c97990a00": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2331"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xfa0b988d513293caf7f141db8db32dde84731e68": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2337"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xc1fdabf4d3edae10f1c9d2dc2280c3dfd25aab2b": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8d182df862ada6b9a30b3cccf0f3ee0237f33070": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "SHAD 3% TILL 2022"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x0c267da3bffa2e66be98e99e9d8983797d2a2c05": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30362df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0x30362df09f8c885261696e626f77"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8d6e035cfe29dfdda404abd34f0107379cc9b239": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "MEGAN SKYE"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@thetokenblonde:matrix.org"
+      },
+      "email": {
+        "Raw": "meganskyephoenix@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@thetokenblonde_"
+      }
+    }
+  },
+  "0xce6c7510c5a0e799d0d5adc58a0c5fd596788efd": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "huobipool-2"
+      },
+      "legal": {
+        "Raw": "HuobiPool"
+      },
+      "web": {
+        "Raw": "https://www.huobipool.com/"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "huobipool@huobi.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "https://twitter.com/Huobi_pool"
+      }
+    }
+  },
+  "0xf97fa064dcf2622feaffc56a1e4c1ac2ea54d15c": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "10% Xavier - Darwinia.Network"
+      },
+      "legal": {
+        "Raw": "Xavier Lau"
+      },
+      "web": {
+        "Raw": "github.com/AurevoirXavier"
+      },
+      "riot": {
+        "Raw": "@aurevoirxavier:matrix.org"
+      },
+      "email": {
+        "Raw": "c.estlavie@icloud.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "AurevoirXavier"
+      }
+    }
+  },
+  "0x099e1ca95d7e6abc56e52143b181abb62ffcc059": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "epool"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x4812b31094e4b37e4d9aaa881837b5e83be7bb1b": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x815c631c0e84e19bf001198c348d9bff4ebae85a": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa49620545255535420342520"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x9e652aae14d3f28fe173bd8d501916b475c0fd0e": {
+    "judgements": [],
+    "deposit": "100,025,800,000,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "D7"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xb5798a54cda2af6744a6959c8730b4c641be5c31": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "BUYNAPOLKA (EXTENSION)"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x23475ac35f2d2916c89ece910ba86dec75bd9766": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xe29da4efb88f42652d576f726c642d2332"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2ac87cbd4ef2fe4eec4e587471b5b23b25337051": {
+    "judgements": [
+      [
+        "0",
+        {
+          "FeePaid": "100,000,000,000,000,000,000"
+        }
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x0b9d6cab4e88e1c17b00ae915b9bb90e8e32e42b": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "PHOENIX-06"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@thetokenblonde:matrix.org"
+      },
+      "email": {
+        "Raw": "megan.skye@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@thetokenblonde_"
+      }
+    }
+  },
+  "0xc576291c15c653a516bc170b515dd5ba0ea23014": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c233130"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xbe365d677e4596476d21471e2c9bdf94d685237e": {
+    "judgements": [],
+    "deposit": "100,025,800,000,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "D5"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x143a788dc2d5edc2aff5359fb34399e16586743f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xda77ecc8b7d5a2f715c1880b7416ca6b52054159": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "SHAD 3% TILL 2022"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xa056ecede17ece34b2427566dbd6f1d47144870a": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "SHAD 3% TILL 2022"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x9e2cafabf7ac62fff3bb57c4540d1af1283fc255": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30332df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0x30332df09f8c885261696e626f77"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xf9a32be2b344f8057c6e9bba6368693846752a6b": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "DARWI II"
+      },
+      "legal": {
+        "Raw": "BBB DARWI II"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2ab504624cc5ff2c7151966aaeae9792a8aec576": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Cold Storage Capital"
+      },
+      "legal": "None",
+      "web": {
+        "Raw": "https://coldstoragecapital.com/"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "rbarraza@coldstoragecapital.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@coldstoragecap"
+      }
+    }
+  },
+  "0x4246162d69924bd4f276b8a747ee8d1197b9352c": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "#02 JUST-POLKA"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x0264737fd206d3fd114371860cb0477bc915dc5c": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x4a616265642e20f09f8d8d50696e656170706c65587072657373"
+      },
+      "legal": {
+        "Raw": "Jabed Ali"
+      },
+      "web": {
+        "Raw": "http://pineapplexpress.io/"
+      },
+      "riot": {
+        "Raw": "@jrali889:matrix.org"
+      },
+      "email": {
+        "Raw": "jabedali@unstoppable.email"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@jrali889"
+      }
+    }
+  },
+  "0x12bb5a4ff136cc614fce1e687248414ee8aa5904": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2334"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x3c450cbb19940a57874cdca0033cdc47c54dea24": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2332"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x1e8434a9854ef28a589222f6ef7dbfad9a7e2f7f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c233133"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x599e80d3369f927e37a98b32db8e08074de6ad95": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "huobipool-1"
+      },
+      "legal": {
+        "Raw": "HuobiPool"
+      },
+      "web": {
+        "Raw": "https://www.huobipool.com/"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "huobipool@huobi.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "https://twitter.com/Huobi_pool"
+      }
+    }
+  },
+  "0xd139786221e84820fb482409e8566f280b536743": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "YIYU-TEST"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xdd86c327156b8b508588e69275ff6d9327f4894c": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Ttt"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x20e7bb90f7e22cc5a27af62cdba0badec0147707": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "PHOENIX-07"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@thetokenblonde:matrix.org"
+      },
+      "email": {
+        "Raw": "megan.skye@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@thetokenblonde_"
+      }
+    }
+  },
+  "0xfa062ae4557c591567509e3576c6dcad1e4e093e": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Atomuse - Darwinia MK1"
+      },
+      "legal": {
+        "Raw": "Atomuse - Darwinia MK1"
+      },
+      "web": {
+        "Raw": "atomuse.cc"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "info@atomuse.cc"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x3c2f199181be3ca53d2e7a0a742aa5692433060d": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Metarock.app (extension)"
+      },
+      "legal": {
+        "Raw": ""
+      },
+      "web": {
+        "Raw": "https://metarock.app/"
+      },
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "https://twitter.com/MetaRockApp"
+      }
+    }
+  },
+  "0xbf5f14f5a002023f73a5dda4acf3f1367eaa6073": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "SHAD 3% TILL 2022"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x6d9898a9d431e5340f166138b61e30668897ba57": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "CANATLAN444 (EXTENSION)"
+      },
+      "legal": {
+        "Raw": "Sandro Eloy Rodriguez Valdez"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "sicomoros444@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xf4ea347136672d2eb97465f578d2d277541e613a": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "QINWEN.168node"
+      },
+      "legal": {
+        "Raw": "QINWEN.168node"
+      },
+      "web": {
+        "Raw": "https://168node.com"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "qinwen@web3.foundation"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x51f7e5a054c0cc458f163c9ad3156abe3bcf2942": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x4154494e5354f09fa7ac"
+      },
+      "legal": {
+        "Raw": "ATINST"
+      },
+      "web": {
+        "Raw": "https://github.com/atinst"
+      },
+      "riot": {
+        "Raw": "@atinst:matrix.org"
+      },
+      "email": {
+        "Raw": "atinst@yahoo.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xa40e9427a58ddf0f41d3c1615f5958535d2ead15": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "#01 JUST-POLKA"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8f274717002a11114a09d0c547dbb4b770f4e628": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa49620545255535420342520"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8e84369fe00cbe7525d33f5f1b004ca31945181d": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "FINX"
+      },
+      "legal": {
+        "Raw": "FINX Capital Markets"
+      },
+      "web": {
+        "Raw": "https://app.finx.io"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "info@finx.io"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@FinX_io"
+      }
+    }
+  },
+  "0x939c8e87f7c941a52bbb9957ad58915a6d7fae5f": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f9a804b5542452d56414c49203825"
+      },
+      "legal": {
+        "Raw": "Way Sun"
+      },
+      "web": {
+        "Raw": "https://github.com/wi1dcard"
+      },
+      "riot": {
+        "Raw": "@wi1dcard_dev:matrix.org"
+      },
+      "email": {
+        "Raw": "way.sun@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "https://twitter.com/kubevali"
+      }
+    }
+  },
+  "0xc9c64867cc3d565f4d0493f1b9488c88f12a6150": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xe29da4efb88f42652d576f726c642d2331"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x4df496bcd588a7f2f68911a4f92d0d590826ab5d": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "HashQuark"
+      },
+      "legal": {
+        "Raw": ""
+      },
+      "web": {
+        "Raw": "https://hashquark.io"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "contact@hashquark.io"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@HashQuark"
+      }
+    }
+  },
+  "0x83dc412eea044c34e9511caed553cccca143fb16": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "WHITEPHOENIX"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2b5cd4b37f236597bca732f03b561f2855e8df0b": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "wnepnq"
+      },
+      "legal": {
+        "Raw": "Bruno Faria"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x5917427da2b8406f1d68eae683ea63726711a830": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": {
+        "Raw": "hayirhah"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "tabiper@protonmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xcdf4d869debe5cb6336f8eeebe01f458ddbce409": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Hi_Aki"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xc11022189bd2d0d4d73d0467c81edf7f21da7065": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "PHOENIX-03"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@thetokenblonde:matrix.org"
+      },
+      "email": {
+        "Raw": "megan.skye@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@thetokenblonde_"
+      }
+    }
+  },
+  "0xd2e925ef3264f8161e4d5d7febba656706054e52": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "DonMK"
+      },
+      "legal": {
+        "Raw": "Mohamed Hussein"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "mohamedkhader90@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xd1aa43f8e781af381dd16eed526438043b9f7e5f": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2339"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x26c5653bedd9079237ae9bfcec1a5b60f4770339": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "DOPEFISH"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@Dopefish806"
+      }
+    }
+  },
+  "0x4cf4393d86bde871155d49cdb727a046da14135c": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30392df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0x30392df09f8c885261696e626f77"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xcacd5390954a84530e2cc9de169594b1f1ff3b41": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xe29da4efb88f42652d576f726c642d2330"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xa1ae6bc98aa662607d47c6609769396ffe09bbc2": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Node123"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2a3bf41608cb5663cc668428d88090d16e4f3603": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x42524545e8bebee5b094e69687"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "bree.yin@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x1fb0c580dbdba02631816fe1ea87b30ac207165b": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa49620545255535420342520"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x315a6f810ae0e0a8d746312c77fa07bca40d3d29": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Darw Controller CVN00"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xf695087237c575819de47bb2f285f79add7fce2d": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "PHOENIX-02"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@thetokenblonde:matrix.org"
+      },
+      "email": {
+        "Raw": "megan.skye@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@thetokenblonde_"
+      }
+    }
+  },
+  "0xe1fbbf34e75e1aa5ca8cbb6bfebb58a9d813223d": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "LIAM  (EXTENSION)"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xd895d925bd8d8fd216db99ac2e09163740519144": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "HASH 2% Forever"
+      },
+      "legal": {
+        "Raw": "HASH 2% Forever"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xc276046ce9854b3fa3a55189e3cdc8211d38793a": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "shihailu2016"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "773396905@qq.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x4cd71d9eabe094d61e0a0d2e106af6db88ddf663": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa7ac52594142494e41"
+      },
+      "legal": "None",
+      "web": {
+        "Raw": "https://ryabina.io/"
+      },
+      "riot": {
+        "Raw": "@ryabina:matrix.org"
+      },
+      "email": {
+        "Raw": "info@ryabina.io"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "Ryabinaio"
+      }
+    }
+  },
+  "0xd2c96a5e13ade8577a30a21befdd68de23b2a67f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "2q8iS3VTZPGscxqsYgkiKWgxwECq2Xfo"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xa9a0aec2d6099a527f4ff61eaf019c2ffe87342c": {
+    "judgements": [],
+    "deposit": "100,025,800,000,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "D4"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x60623208c95541c824844bbeb6bd39ad2b005524": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "#03 JUST-POLKA"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x470c6b7edb2bc29ff5dfe6de4394f2bd8d61aa48": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "out (extension)"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xa7546bdf936170a247c0e2c6743e523de25bba37": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30372df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0x30372df09f8c885261696e626f77"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x01abe10bba75c8c296c40e81fddd9e8335a0d02a": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa49620545255535420342520"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x0415009487a73db59c3191bbf26722b725017136": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Only one true SHAD "
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@shadov:matrix.org"
+      },
+      "email": {
+        "Raw": "shadovserg@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8ed88d164f1cc19d3b3404f1e6a332b2d2a45722": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Atomuse  - DARWINIA CONTROLLER"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x1268dd7484ca438855a4d8444c5279ac11ae3d40": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Stake.Works CVN00"
+      },
+      "legal": {
+        "Raw": "Stake.Works"
+      },
+      "web": {
+        "Raw": "https://stake.works/"
+      },
+      "riot": {
+        "Raw": "@webdev99:matrix.org"
+      },
+      "email": {
+        "Raw": "info@stake.works"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x332003665e928dfc2b225b032f4a48092b116f18": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c2336"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xb8afbb7b80358d4570f164bf9ebca95750362d42": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa496205452555354203425"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x965dbe95c1570e15c5e6dcf09f12c69eed5b704f": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "KUN15262559191"
+      },
+      "legal": {
+        "Raw": "0xe78ca9e79083e5b49be8b5b7"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "403688224@qq.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2a6de603bda7e61964db3286de9302668b555224": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "STAKE.WORKS CVN0101"
+      },
+      "legal": {
+        "Raw": "Stake.Works"
+      },
+      "web": {
+        "Raw": "https://stake.works/"
+      },
+      "riot": {
+        "Raw": "@webdev99:matrix.org"
+      },
+      "email": {
+        "Raw": "info@stake.works"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xcf34dc6ba427cef818deecfc0fbbd0c3de1e452b": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "2tXHnSRNDBEGDCcWnRCGbX1rghLiHf5v"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xb3beb665d7313835e1cd330107cf1ef28a4e745a": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Darw Controller CVN0301"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x79175ec4fb6c5adf93bbf674e13108a4eb619a78": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xfd63b6458df2d06535a3dd32b0c8f34899276750": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "All Is Well - Om Arunachala"
+      },
+      "legal": "None",
+      "web": {
+        "Raw": "https://sriramanamaharshi.org"
+      },
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x8a4790685c65953aaa825c76481f8bd411fff00b": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30342df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0x30342df09f8c885261696e626f77"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x283147f4a23b49319a1266dd9b7825374249e647": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa49620545255535420342520"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xaaab78d5db539d4253a99bc29eb68a4639f2431d": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": "None",
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xd05777d28a61abcb37a5f524cfaaa7119f3a7ee2": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "WETEZ"
+      },
+      "legal": "None",
+      "web": {
+        "Raw": "https://www.wetez.io"
+      },
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x109189aa9706562d8ee032caeafe627e7965f817": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "JOHANSON 2"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x59c2787dd6bd2f9b8139a69c33e14a722d1e801d": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "clearloop"
+      },
+      "legal": {
+        "Raw": "Mercury"
+      },
+      "web": {
+        "Raw": "https://github.com/clearloop"
+      },
+      "riot": {
+        "Raw": "@d.cl:matrix.org"
+      },
+      "email": {
+        "Raw": "clearloop@163.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "s62osa"
+      }
+    }
+  },
+  "0xa2008d3eb594a1d2240d5520e997e83016253e17": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Dans Polkadot"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x39352a20f2d3b3c6b171d51b12386f32d7e3407c": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "PHOENIX-01"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@thetokenblonde:matrix.org"
+      },
+      "email": {
+        "Raw": "megan.skye@itering.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@thetokenblonde_"
+      }
+    }
+  },
+  "0xd36cf9d16430faca2ac8d38ba04b0fa01bf87b4c": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c233131"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x60f7a59a4d5cd53a951381bcccbc920a45f54864": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Labadabadapta"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xd895f6133aade228f7b4bffdcab41cfa8c559058": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Dpower"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x1fc3dcc970e59c78793db6bb7781d32ab2bb8377": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "danber"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xd3cc2f1fd6be80da3e8fa5b7204bc0a3d9f20328": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "_TsavantGarde_"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x55116191eded5f603304ce8a6ca6ecf6848c837c": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0x30382df09f8c885261696e626f77"
+      },
+      "legal": {
+        "Raw": "0x30382df09f8c885261696e626f77"
+      },
+      "web": "None",
+      "riot": {
+        "Raw": "@hging:matrix.org"
+      },
+      "email": {
+        "Raw": "rainbow@hging.net"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x5bfb888d66c93282ce0d7a685ee2a2a9c0f40b4c": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa49620545255535420342520"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xdb36f0380a1e3e0108711ca2e88ffafb297a0136": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "QQQNode"
+      },
+      "legal": {
+        "Raw": "qqq"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x9da148721dac4bf75fae251bf0c89018c8248225": {
+    "judgements": [
+      [
+        "0",
+        "Reasonable"
+      ]
+    ],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f8cbb20e5a4a7e6b2b3e5908ce5ada6"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "@i_be_world:matrix.org"
+      },
+      "email": {
+        "Raw": "i_be_world@outlook.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x17fd61da978fa345a3ee903788328a6372d48c10": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "qiuhaoyi"
+      },
+      "legal": {
+        "Raw": "qiuzhijun"
+      },
+      "web": {
+        "Raw": "https://twitter.com/QiuZhijun1"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "qiuzhijun01@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "https://twitter.com/QiuZhijun1"
+      }
+    }
+  },
+  "0x0e8e9445323e0ab4c7295c653f12c8bf079df460": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "SHAD 3% TILL 2022"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xb4f933a5b9df2abdf46cbe98f32c2ab147ea6677": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09fa496205452555354203425"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x559f551cdee71434bc256d18af29686ed7c95a5d": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xe8bea3e4b8aae8939de4baba"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xa3122bd2f251ea7b366cad699b4129df9dfe7e62": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "GFD88"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x5e3fff8dcf3f95483dca9c5795822e8d4cd5ce14": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Insight Finance"
+      },
+      "legal": "None",
+      "web": {
+        "Raw": "https://gostake.io"
+      },
+      "riot": "None",
+      "email": {
+        "Raw": "eric_dwj@icloud.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xa973fdd9ebc270fe431e04396c711e12c6dc2356": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "MYBESTLIFE"
+      },
+      "legal": {
+        "Raw": "Josiah James Kotzur"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": {
+        "Raw": "JosiahKotzur3@gmail.com"
+      },
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": {
+        "Raw": "@josiahkotzur1"
+      }
+    }
+  },
+  "0x4b26f311bb0aa55b641f1bfb9e486bb93a723a18": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "CollectorPH"
+      },
+      "legal": {
+        "Raw": "iskulbukolPH"
+      },
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x19e59ed082a4515c22967c9c1c94621969362aba": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "USHAKOV"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x29a88254fce8e0233e4514045ac5eb25dd756359": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Oranneg Stake"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": {
+        "Raw": "Oranneg"
+      },
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xde31c21a981ea17e5c10a59a736e3e2062bdf522": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "0xf09f91a9e2808df09f8db320e993bee4b896e7958c233132"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0xae8b03edd271ceb4bf6f6adb8f576cf01a756766": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "Darw Controller CVN0101"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x2ef5e35fd5630aca76ed4c082db7a229a53d2218": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "qwer"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  },
+  "0x6f59627e121870156b53daa525f8f1d5ab8aed69": {
+    "judgements": [],
+    "deposit": "20,025,800,000,000,000",
+    "info": {
+      "additional": [],
+      "display": {
+        "Raw": "SHAD 3% TILL 2022"
+      },
+      "legal": "None",
+      "web": "None",
+      "riot": "None",
+      "email": "None",
+      "pgpFingerprint": null,
+      "image": "None",
+      "twitter": "None"
+    }
+  }
+}
