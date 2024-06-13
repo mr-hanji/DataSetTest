@@ -12,7 +12,7 @@ import KtonAccountsLatestData from "./data/kton-accounts-latest.json";
 import Ledgers from "./components/Ledgers";
 import LedgersData from "./data/ledgers-0.json";
 import LedgersLatestData from "./data/ledgers-0.json";
-import BlockchainData from "./components/BlockChaniData";
+import EmployeeChart from "./components/EmployeeChart";
 // import rawData from "./data/identities-0.json";
 // import Identities from "./components/Identities";
 
@@ -42,7 +42,7 @@ function App() {
       <KtonAccounts data={KtonAccountsLatestData} title="Kton Accounts Lates" />
       <Ledgers data={LedgersData} title="Ledgers-0" />
       <Ledgers data={LedgersLatestData} title="Ledgers Latest" /> */}
-      <BlockchainData />
+      <EmployeeChart />
     </div>
   );
 }
