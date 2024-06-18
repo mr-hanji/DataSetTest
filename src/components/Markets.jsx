@@ -109,7 +109,7 @@ const Markets = () => {
       }}
     >
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
-        Transaction Data
+        Markets Data
       </h2>
       {data ? <Line data={data} options={options} /> : <p>Loading...</p>}
     </div>

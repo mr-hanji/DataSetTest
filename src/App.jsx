@@ -10,18 +10,6 @@ import Address from "./components/Address";
 // import Identities from "./components/Identities";
 
 function App() {
-  useEffect(() => {
-    axios
-      .get("https://darwinia-evm.subscan.io/api/v2/addresses")
-      .then((res) => {
-        console.log("====================================");
-        console.log(res.data);
-        console.log("====================================");
-      })
-      .catch((err) => {
-        console.error(err);
-      });
-  }, []);
   return (
     <div className="App">
       <EmployeeChart />
