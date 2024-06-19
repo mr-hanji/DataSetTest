@@ -8,6 +8,9 @@ import Markets from "./components/Markets";
 import Address from "./components/Address";
 import Transfers from "./components/Transfers";
 import Preface from "./components/Preface";
+import Accounts from "./components/Accounts";
+import Contracts from "./components/Contracts";
+import GasFee from "./components/GasFee";
 // import rawData from "./data/identities-0.json";
 // import Identities from "./components/Identities";
 
@@ -20,6 +23,9 @@ function App() {
       <Markets />
       {/* <Address /> */}
       <Transfers />
+      <Accounts />
+      <Contracts />
+      <GasFee />
     </div>
   );
 }
