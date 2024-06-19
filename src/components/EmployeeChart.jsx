@@ -98,8 +98,14 @@ const MigrationCharts = () => {
       }}
     >
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
-        Employee Migration Data
+        Migration Data
       </h2>
+      <h3 style={{ marginBottom: "60px" }}>
+        This is the chart generated based on the migration data during the time.
+        This charts consists of two line one for the amount of migration per
+        month and the other for total amount of migration from the beginning
+        each month. The data is solid and received from the Subscan website.
+      </h3>
       <div
         style={{
           display: "flex",

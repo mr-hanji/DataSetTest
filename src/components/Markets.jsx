@@ -111,6 +111,12 @@ const Markets = () => {
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
         Markets Data
       </h2>
+      <h3 style={{ marginBottom: "60px" }}>
+        This is the chart generated for representing the price growth over the
+        time. You can see in each month who much the price has been changed
+        according to the past one. The data for this chart has been got from the
+        Darwinia explorer Rest API.
+      </h3>
       {data ? <Line data={data} options={options} /> : <p>Loading...</p>}
     </div>
   );

@@ -113,6 +113,12 @@ const Transactions = () => {
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
         Transaction Data
       </h2>
+      <h3 style={{ marginBottom: "60px" }}>
+        This is the chart generated based on the transactions data form the
+        Darwinia explorer. The charts show the number of transactions has been
+        done during the time. It is a monthly chart shows the monthly number of
+        transactions.
+      </h3>
       {chartData ? (
         <Line data={chartData} options={options} />
       ) : (

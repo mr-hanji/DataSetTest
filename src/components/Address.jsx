@@ -42,6 +42,11 @@ const AddressList = () => {
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
         Address Data
       </h2>
+      <h3 style={{ marginBottom: "60px" }}>
+        This table has been generated based on the addresses who are the native
+        owner of RING token. The addresses and balances are shown in a table and
+        can be tracked nicely here.
+      </h3>
       {loading ? (
         <p>Loading...</p>
       ) : (
