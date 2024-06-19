@@ -4,24 +4,41 @@ import data from "../data/Transactions.json";
 
 const GasFee = () => {
   // Extracting x (timestamps) and y (base_fee_per_gas) values from data
-  const timestamps = data.items.map((item) => item.timestamp);
-  const baseFees = data.items.map((item) => parseInt(item.fee.value));
+  const transactions = data.chart;
 
-  // Mapping timestamps to month format
-  const formattedTimestamps = timestamps.map((timestamp) => {
-    const date = new Date(timestamp);
-    return `${date.toLocaleString("default", {
-      month: "short",
-    })} ${date.getFullYear()}`;
-  });
+  // Function to group transactions by month and calculate total fee per month
+  const groupByMonth = () => {
+    const groupedData = transactions.reduce((acc, transaction) => {
+      const date = new Date(transaction.date);
+      const monthYear = `${date.getFullYear()}-${date.getMonth() + 1}`;
+      if (!acc[monthYear]) {
+        acc[monthYear] = {
+          monthYear,
+          totalFee: parseInt(transaction.value),
+        };
+      } else {
+        acc[monthYear].totalFee += parseInt(transaction.value);
+      }
+      return acc;
+    }, {});
+
+    // Convert grouped data object to array and sort by month
+    const sortedData = Object.values(groupedData).sort((a, b) => {
+      const [yearA, monthA] = a.monthYear.split("-");
+      const [yearB, monthB] = b.monthYear.split("-");
+      return new Date(yearA, monthA - 1) - new Date(yearB, monthB - 1);
+    });
+
+    return sortedData;
+  };
 
   // Prepare data for chart
   const chartData = {
-    labels: formattedTimestamps,
+    labels: groupByMonth().map((item) => item.monthYear),
     datasets: [
       {
-        label: "Base Fee Per Gas",
-        data: baseFees,
+        label: "Total Fee",
+        data: groupByMonth().map((item) => item.totalFee),
         fill: false,
         borderColor: "rgba(75,192,192,1)",
         tension: 0.1,
@@ -33,7 +50,7 @@ const GasFee = () => {
   const options = {
     scales: {
       y: {
-        beginAtZero: false,
+        beginAtZero: true,
         grid: {
           color: "rgba(255, 255, 255, 0.1)",
         },
@@ -55,7 +72,7 @@ const GasFee = () => {
         },
         title: {
           display: true,
-          text: "Date",
+          text: "Month",
           font: {
             size: 16,
             color: "#FFF",
@@ -103,8 +120,8 @@ const GasFee = () => {
         marginTop: "20px",
       }}
     >
-      <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
-        Transaction Data
+      <h2 style={{ textAlign: "center", marginBottom: "20px" }}>
+        Transaction Data Per Month
       </h2>
       <Line data={chartData} options={options} />
     </div>
