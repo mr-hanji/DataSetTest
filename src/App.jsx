@@ -16,7 +16,7 @@ function App() {
       <EmployeeChart />
       <Transactions />
       <Markets />
-      <Address />
+      {/* <Address /> */}
       <Transfers />
     </div>
   );
