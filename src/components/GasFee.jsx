@@ -39,7 +39,7 @@ const GasFee = () => {
         },
         title: {
           display: true,
-          text: "Total Number",
+          text: "Fee",
           font: {
             size: 16,
             color: "#FFF",
