@@ -6,3 +6,19 @@
 h2 {
   color: #333;
 }
+
+h4 {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+a {
+  color: rgb(54, 162, 235);
+  text-decoration: none;
+  margin: 5px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 15px;
+}
