@@ -165,7 +165,7 @@ const AverageGas = () => {
       }}
     >
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
-        Average Block Data
+        Average Gas Data
       </h2>
       {chartData ? (
         <Line data={chartData} options={options} />
