@@ -13,8 +13,10 @@ const Preface = () => {
     >
       <h1>Preface</h1>
       <h4>
-        in this project we search about the darwinia data and we found some data
-        that can show as chart and you can see them in after sections
+        This page is about the different type of data we can have them as a
+        chart, the useful charts that make the dataset clear to the user and
+        make them trust the network more than before. You will see some examples
+        of these charts and the way we generated them.
       </h4>
       <h4>Technologys</h4>
       <p>React Js , Chart.js , React-chartjs-2</p>
