@@ -11,6 +11,9 @@ import Preface from "./components/Preface";
 import Accounts from "./components/Accounts";
 import Contracts from "./components/Contracts";
 import GasFee from "./components/GasFee";
+import AvrageTxnFee from "./components/AvrageTxnFee";
+import AverageBlock from "./components/AverageBlock";
+import AverageGas from "./components/AverageGas";
 // import rawData from "./data/identities-0.json";
 // import Identities from "./components/Identities";
 
@@ -26,6 +29,9 @@ function App() {
       <Accounts />
       <Contracts />
       <GasFee />
+      <AvrageTxnFee />
+      <AverageBlock />
+      <AverageGas />
     </div>
   );
 }
