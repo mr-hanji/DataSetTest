@@ -22,3 +22,44 @@ p {
   font-weight: 400;
   font-size: 15px;
 }
+/* DatePickerStyles.css */
+.react-datepicker-wrapper {
+  display: inline-block;
+}
+
+.react-datepicker__input-container input {
+  width: 120px;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: #444;
+  color: #fff;
+}
+
+.dark-calendar .react-datepicker__header {
+  background-color: #333;
+  border-bottom: 1px solid #444;
+}
+
+.dark-calendar .react-datepicker__day-name {
+  color: #fff;
+}
+
+.dark-calendar .react-datepicker__day:hover {
+  background-color: #555;
+}
+
+.dark-calendar .react-datepicker__current-month,
+.dark-calendar .react-datepicker-time__header,
+.dark-calendar .react-datepicker-year-header {
+  color: #fff;
+}
+
+.dark-calendar .react-datepicker__triangle {
+  display: none;
+}
+
+.dark-calendar .react-datepicker__day--selected,
+.dark-calendar .react-datepicker__day--keyboard-selected {
+  background-color: #666;
+}

@@ -1,66 +1,77 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import axios from "axios";
 import { Line } from "react-chartjs-2";
 import "chart.js/auto";
+import DateRangePicker from "./DateRangePicker";
 
 const AvrageTxnFee = () => {
   const [chartData, setChartData] = useState(null);
+  const [startDate, setStartDate] = useState(new Date("2023-01-01"));
+  const [endDate, setEndDate] = useState(new Date("2024-06-22"));
+  const [loading, setLoading] = useState(false);
 
-  useEffect(() => {
-    axios
-      .get(
-        "https://darwinia-evm.subscan.io/api/v1/lines/averageTxnFee?from=2023-01-01&to=2024-06-22"
-      )
-      .then((res) => {
-        const data = res.data;
+  const fetchData = async (start, end) => {
+    try {
+      setLoading(true);
+      const res = await axios.get(
+        `https://darwinia-evm.subscan.io/api/v1/lines/averageTxnFee?from=${start}&to=${end}`
+      );
 
-        // Process the data to group by month and calculate average
-        const monthlyData = data.chart.reduce((acc, item) => {
-          const date = new Date(item.date);
-          const month = date.getMonth() + 1; // getMonth() is zero-based
-          const year = date.getFullYear();
-          const key = `${year}-${month < 10 ? `0${month}` : month}`;
+      const data = res.data;
+      const monthlyData = data.chart.reduce((acc, item) => {
+        const date = new Date(item.date);
+        const month = date.getMonth() + 1;
+        const year = date.getFullYear();
+        const key = `${year}-${month < 10 ? `0${month}` : month}`;
 
-          if (!acc[key]) {
-            acc[key] = {
-              totalValue: 0,
-              count: 0,
-            };
-          }
+        if (!acc[key]) {
+          acc[key] = {
+            totalValue: 0,
+            count: 0,
+          };
+        }
 
-          acc[key].totalValue += parseFloat(item.value);
-          acc[key].count += 1;
+        acc[key].totalValue += parseFloat(item.value);
+        acc[key].count += 1;
 
-          return acc;
-        }, {});
+        return acc;
+      }, {});
 
-        const labels = Object.keys(monthlyData);
-        const avgTxCounts = Object.values(monthlyData).map(
-          (item) => item.totalValue / item.count
-        );
+      const labels = Object.keys(monthlyData);
+      const avgTxCounts = Object.values(monthlyData).map(
+        (item) => item.totalValue / item.count
+      );
 
-        setChartData({
-          labels,
-          datasets: [
-            {
-              label: "Average Transaction Fee per Month",
-              data: avgTxCounts,
-              fill: false,
-              borderColor: "rgb(75, 192, 192)",
-              backgroundColor: "rgba(75, 192, 192, 0.2)",
-              pointBorderColor: "rgb(75, 192, 192)",
-              pointBackgroundColor: "rgb(75, 192, 192)",
-              pointRadius: 5,
-              pointHoverRadius: 8,
-              pointHitRadius: 10,
-            },
-          ],
-        });
-      })
-      .catch((err) => {
-        console.error(err);
+      setChartData({
+        labels,
+        datasets: [
+          {
+            label: "Average Transaction Fee per Month",
+            data: avgTxCounts,
+            fill: false,
+            borderColor: "rgb(75, 192, 192)",
+            backgroundColor: "rgba(75, 192, 192, 0.2)",
+            pointBorderColor: "rgb(75, 192, 192)",
+            pointBackgroundColor: "rgb(75, 192, 192)",
+            pointRadius: 5,
+            pointHoverRadius: 8,
+            pointHitRadius: 10,
+          },
+        ],
       });
-  }, []);
+      setLoading(false);
+    } catch (err) {
+      console.error(err);
+      setLoading(false);
+    }
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const start = startDate.toISOString().split("T")[0];
+    const end = endDate.toISOString().split("T")[0];
+    fetchData(start, end);
+  };
 
   const options = {
     scales: {
@@ -139,15 +150,22 @@ const AvrageTxnFee = () => {
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
         Average Transaction Data
       </h2>
+      <DateRangePicker
+        startDate={startDate}
+        endDate={endDate}
+        setStartDate={setStartDate}
+        setEndDate={setEndDate}
+        handleSubmit={handleSubmit}
+      />
       <h3 style={{ marginBottom: "60px" }}>
         This is the chart generated based on the migration data during the time.
-        This charts consists of blue line that show Average transaction fee from
-        2023/01/01 until now.
+        This chart consists of a blue line that shows the average transaction
+        fee from 2023/01/01 until now.
       </h3>
-      {chartData ? (
-        <Line data={chartData} options={options} />
-      ) : (
+      {loading ? (
         <p>Loading...</p>
+      ) : (
+        chartData && <Line data={chartData} options={options} />
       )}
     </div>
   );
