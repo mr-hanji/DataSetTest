@@ -167,6 +167,11 @@ const AverageGas = () => {
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
         Average Gas Data
       </h2>
+      <h3 style={{ marginBottom: "60px" }}>
+        This is the chart generated based on the migration data during the time.
+        This charts consists of two line one for the Average gas price and the
+        other for gas used growth from the beginning each month.
+      </h3>
       {chartData ? (
         <Line data={chartData} options={options} />
       ) : (

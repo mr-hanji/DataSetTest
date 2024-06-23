@@ -120,6 +120,10 @@ const Accounts = () => {
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
         Accounts Data
       </h2>
+      <h3 style={{ marginBottom: "60px" }}>
+        This is the chart generated based on the migration data during the time.
+        This charts consists of blue line that show total number of Accounts.
+      </h3>
       {data ? <Line data={chartData} options={options} /> : <p>Loading...</p>}
     </div>
   );

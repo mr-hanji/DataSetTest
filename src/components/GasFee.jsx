@@ -120,9 +120,14 @@ const GasFee = () => {
         marginTop: "20px",
       }}
     >
-      <h2 style={{ textAlign: "center", marginBottom: "20px" }}>
+      <h3 style={{ textAlign: "center", marginBottom: "20px" }}>
         Transaction Data Per Month
-      </h2>
+      </h3>
+      <h3 style={{ marginBottom: "60px" }}>
+        This is the chart generated based on the migration data during the time.
+        This charts consists of blue line that show fee of Transactions from
+        2024/01/01 until now.
+      </h3>
       <Line data={chartData} options={options} />
     </div>
   );

@@ -139,6 +139,11 @@ const AvrageTxnFee = () => {
       <h2 style={{ textAlign: "center", marginBottom: "20px", color: "white" }}>
         Average Transaction Data
       </h2>
+      <h3 style={{ marginBottom: "60px" }}>
+        This is the chart generated based on the migration data during the time.
+        This charts consists of blue line that show Average transaction fee from
+        2023/01/01 until now.
+      </h3>
       {chartData ? (
         <Line data={chartData} options={options} />
       ) : (

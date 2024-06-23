@@ -20,7 +20,7 @@ const Preface = () => {
       </h4>
       <h4>Technologys</h4>
       <p>React Js , Chart.js , React-chartjs-2</p>
-      <h4>First Chart</h4>
+      {/* <h4>First Chart</h4>
       <p>
         in the first chart you will see data of Migration we use the data from{" "}
         <a href="https://darwinia.subscan.io/extrinsic?page=1&time_dimension=date&signed=all&module=accountmigration">
@@ -51,7 +51,15 @@ const Preface = () => {
         in the left and the second one is Total number that is located in the
         right{" "}
       </p>
-      <p>for X we have date That show data per Month</p>
+      <p>for X we have date That show data per Month</p> */}
+      <p>
+        in the charts that you can scroll down and see we explain wat are chart
+        and what data the are show to you{" "}
+      </p>
+      <p>
+        some chart have one line and some of the have more than one line that we
+        explain about each line{" "}
+      </p>
     </div>
   );
 };
